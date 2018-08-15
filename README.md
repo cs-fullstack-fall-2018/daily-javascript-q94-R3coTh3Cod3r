@@ -32,7 +32,7 @@ You have the following code:
 ```
 
 How many elements will be red with a green border?
-
+The answer is A
 Choose the correct answer
 
 1) 1
